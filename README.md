@@ -106,8 +106,8 @@ project/
 ### 1. Клонування репозиторію
 
 ```bash
-git clone https://github.com/username/intelligent-task-planner.git
-cd intelligent-task-planner
+git clone https://github.com/qanycom/AIPlanner.git
+cd AIPlanner
 ```
 
 ### 2. Запуск backend
